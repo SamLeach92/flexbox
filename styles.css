@@ -48,4 +48,8 @@
     justify-content: flex-start;
 }
 
-.photo-grid 
+.photo-grid {
+    width: 900px;
+    display: flex;
+    justify-content: flex-start;
+}
