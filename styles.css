@@ -32,6 +32,7 @@
     background-color: #d6e9fe;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header {
@@ -39,4 +40,5 @@
     height: 300px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
