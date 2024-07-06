@@ -43,7 +43,9 @@
     align-items: center;
 }
 
-.photo-grid {
+.photo-grid-container {
     display: flex;
     justify-content: flex-start;
 }
+
+.photo-grid 
